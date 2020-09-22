@@ -1,4 +1,4 @@
-class InfluxAT200Beta16 < Formula
+class InfluxAT20016 < Formula
   desc "InfluxData CLI for InfluxDB 2.0.0 beta 16"
   homepage "https://influxdata.com"
   url "https://dl.influxdata.com/influxdb/releases/influxdb_client_2.0.0-beta.16_darwin_amd64.tar.gz"
