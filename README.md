@@ -19,4 +19,5 @@ brew install bondanthony/tools/influx@2.0.0-beta.16
 istioctl 1.6.8
 istioctl 1.5.10
 influx 2.0.0-beta.16
+kubectl 1.16.3
 ```
