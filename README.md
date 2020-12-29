@@ -13,7 +13,7 @@ or tap install package
 brew install bondanthony/tools/influx@2.0.0-beta.16
 ```
 
-### List of formula for specific tooling versions
+### List of formulas for specific tool versions
 
 ```
 istioctl 1.6.8
