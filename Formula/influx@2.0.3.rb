@@ -1,4 +1,4 @@
-class InfluxAT20016 < Formula
+class InfluxAT203 < Formula
   desc "InfluxData CLI for InfluxDB 2.0.3"
   homepage "https://influxdata.com"
   url "https://dl.influxdata.com/influxdb/releases/influxdb2_client_2.0.3_darwin_amd64.tar.gz"
