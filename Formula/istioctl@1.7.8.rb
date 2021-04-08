@@ -1,4 +1,4 @@
-class IstioctlAT168 < Formula
+class IstioctlAT178 < Formula
   desc "Connect, secure, control, and observe services."
   homepage "https://istio.io"
   url "https://github.com/istio/istio/releases/download/1.7.8/istioctl-1.7.8-osx.tar.gz"
